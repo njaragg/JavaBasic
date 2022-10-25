@@ -8,7 +8,8 @@ public class Main {
 		//Las Variables primitivas, caracter estatico
 		String palabra= "Hola mundinho";
 		
-		
+		// valueof retorna un Integer, variable no primitiva
+		// parseint retorna una variable primitiva
 		
 		
 		
